@@ -20,14 +20,14 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: GBH Products Promotion Library
+title: GBF Products Promotion Library
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: a collection of Great Budol Finds
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "This is a curation of promoted products tagged as 'Great Budol Finds' from Shopee, Lazada, and other online shops. Product affiliate links, descriptions, images, and location are provided."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: GBH
+author: GBF
 
 ##########
 # COLLECTION SETTINGS
