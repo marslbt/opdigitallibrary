@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="gbf002" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+{% include feature/nav-menu.html sections="About GBF Ph;About Page" %}
 
 ## About GBF Ph
 Great Budol Finds (GBF) Ph is a curator and a marketing affiliate of Involve Asia promoting products in Shopee and Lazada, as well as other verified online shops. 
